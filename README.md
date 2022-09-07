@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/q522u7ari91vak4w/branch/main?svg=true)](https://ci.appveyor.com/project/Burdada/postman2/branch/main)
